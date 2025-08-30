@@ -1,6 +1,2 @@
-fastapi==0.109.0
-uvicorn[standard]==0.27.0
-python-multipart==0.0.9
-pydantic==2.6.1
-pydantic-core==2.16.2 --only-binary=:all:
-
+fastapi==0.68.0
+uvicorn==0.15.0
